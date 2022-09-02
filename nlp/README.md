@@ -1,4 +1,4 @@
-# Project - Natural Language Repository
+# Project - Natural Language Processing
 
 This project starts with using a starter code from the Udacity repository. It aims to build a web app that assists users to run Natural Language Processing (NLP) on articles or blogs found on any websites.
 
